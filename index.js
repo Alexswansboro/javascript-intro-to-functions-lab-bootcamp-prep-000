@@ -19,7 +19,7 @@ function logShout(string) {
       { 
         return "I can\'t hear you!"
         }
-        
+     if((string) === )   
   }
  
   
