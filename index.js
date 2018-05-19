@@ -10,11 +10,11 @@ function logShout(string) {
   function logWhisper(string) {
     console.log('hello')
   }
-  function sayHiToGrandma(string) === {if (string.toLowerCase
+  function sayHiToGrandma(string) === {if (string ==== string.toLowerCase)
      return('YES INDEED!')
   }
   if sayHiToGrandma(string) ==== LowerCase{
-     return ('I can\'t hear you!')
+     return ()
   }
  
   
